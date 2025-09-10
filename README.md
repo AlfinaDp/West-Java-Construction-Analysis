@@ -1,7 +1,7 @@
 # West-Java-Construction-Analysis
 This project analyzes the number of construction companies across districts and cities in West Java.   The analysis includes **data standardization, outlier detection, categorization into Low/Medium/High, and frequency distribution visualization**.
 ## Dataset
-- [Tugas1-SSD-Alfina Damayanti Putri.xlsx](Tugas1-SSD-Alfina%20Damayanti%Putri.xlsx)  
+- [Tugas1-SSD-Alfina Damayanti Putri.xlsx](construction_data.xlsx)  
   Contains:
   - Raw data (number of companies per district/city)  
   - Standardized values (Z-scores)  
